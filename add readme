@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<body>
+  <h1>
+    Resume
+  </h1>
+    <h2>Mia Zovil Rabino</h2>
+    <p>Email="lufahansa@gmail.com"</p>
+    <head>
+      <h3>Work Experience</h3>
+    </head>
+    <table>
+      <tr>
+      <td>Sales Supervisor - 2016</td>
+      </tr>
+      <tr>
+      <td>Appointment Setter - 2022</td>
+      </tr>
+    </table>
+    <h3>Hobbies</h3>
+    <table>
+    <tr>
+    <ul>
+      <li>Singing</li>
+      <li>Cooking</li>
+      <li>Watching movie</li>
+    </ul>
+    </tr>
+    </table>
+  </body>
+  <h3>Why Should I Hire You?</h3>
+  <p>Because I have a hard work ethic.</p>
+</html>
+ 
